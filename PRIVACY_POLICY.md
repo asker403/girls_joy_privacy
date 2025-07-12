@@ -1,6 +1,6 @@
 # Privacy Policy for Girls Joy App
 
-**Last Updated:** January 2025
+**Last Updated:** July 2025
 
 ## Introduction
 
@@ -156,5 +156,5 @@ You can control data collection by:
 
 ---
 
-**Effective Date:** January 2025  
+**Effective Date:** July 2025  
 **Version:** 1.0 
